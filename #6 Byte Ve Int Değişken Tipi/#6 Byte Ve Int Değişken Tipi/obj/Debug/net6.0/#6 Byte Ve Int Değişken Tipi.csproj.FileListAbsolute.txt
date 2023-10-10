@@ -1,0 +1,4 @@
+C:\Users\enesb\source\repos\#6 Byte Ve Int Değişken Tipi\#6 Byte Ve Int Değişken Tipi\obj\Debug\net6.0\#6 Byte Ve Int Değişken Tipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesb\source\repos\#6 Byte Ve Int Değişken Tipi\#6 Byte Ve Int Değişken Tipi\obj\Debug\net6.0\#6 Byte Ve Int Değişken Tipi.AssemblyInfoInputs.cache
+C:\Users\enesb\source\repos\#6 Byte Ve Int Değişken Tipi\#6 Byte Ve Int Değişken Tipi\obj\Debug\net6.0\#6 Byte Ve Int Değişken Tipi.AssemblyInfo.cs
+C:\Users\enesb\source\repos\#6 Byte Ve Int Değişken Tipi\#6 Byte Ve Int Değişken Tipi\obj\Debug\net6.0\#6 Byte Ve Int Değişken Tipi.csproj.CoreCompileInputs.cache
